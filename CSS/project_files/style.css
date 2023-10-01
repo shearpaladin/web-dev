@@ -16,6 +16,11 @@ h2 {
 
 p {
     color: pink;
+    line-height: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 150%;
+
 }
 
 li {
