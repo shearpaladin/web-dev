@@ -1,0 +1,24 @@
+/*Selector {*/
+/*    Property:value*/
+/*}*/
+
+body {
+    background-image: url("nature.jpg");
+    background-size: cover;
+}
+
+h2 {
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid rgba(255, 176, 170, 0.5);
+}
+
+
+p {
+    color: pink;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
