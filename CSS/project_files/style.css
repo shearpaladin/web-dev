@@ -24,7 +24,12 @@ h1 {
 img {
     width: 450px;
     height: 300px;
+    transition: all 1s;
 
+}
+
+img:hover {
+    transform: scale(1.1);
 }
 
 h2 {
